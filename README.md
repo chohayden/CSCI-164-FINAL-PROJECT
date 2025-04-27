@@ -1,4 +1,6 @@
 # CSCI-164-FINAL-PROJECT
+USE CSCI!^RPROJECRPART 1 with 
+USE CSCI164PROJ
 CSCI-164 project using Linear Regression, KNN, Naive Bayes, MLP
 I developed machine learning models to analyze two datasets from the UCI Machine Learning Repository: the Wine Quality dataset and the Student Performance dataset. These datasets represent two subjects wine quality and education - demonstrating how machine learning can be applied across different fields to solve real-world problems.
 

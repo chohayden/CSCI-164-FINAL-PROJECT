@@ -1,6 +1,19 @@
-# CSCI-164-FINAL-PROJECT
-USE CSCI164PROJPART1.ipynb with student-mat.csv
-USE CSCI164PROJ
+CSCI-164-FINAL-PROJECT
+
+######USE StudentGradePrediction.ipynb with student-mat.csv
+For regression task, predict G3
+For classification task, predict pass/fail
+
+USE WineQualityPrediction.ipynb with winequality-red.csv##########
+
+
+
+
+
+
+
+
+
 CSCI-164 project using Linear Regression, KNN, Naive Bayes, MLP
 I developed machine learning models to analyze two datasets from the UCI Machine Learning Repository: the Wine Quality dataset and the Student Performance dataset. These datasets represent two subjects wine quality and education - demonstrating how machine learning can be applied across different fields to solve real-world problems.
 
